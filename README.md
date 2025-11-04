@@ -32,7 +32,8 @@ Laravel Framework 8.83.8
 PHP 8.1.33 (cli)
 MYSQL:8.0.26
 ## ER図
-![ER図](er_diagrams/product_season_er.drawio.png)
+![ER図](src/er_diagrams/product_season_er.png)
+
 
 ##URL
 開発環境：http://localhost/products
